@@ -1,0 +1,12 @@
+.body_background 
+{
+    background-image: url(https://terrigen-cdn-dev.marvel.com/content/prod/1x/theavengers_lob_crd_03.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
